@@ -1,0 +1,6 @@
+{
+  "name": "Shared Finance & Expense Splitting",
+  "description": "Android screen samples and interactive group expense manager with two-person netting, splits, accounts, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
