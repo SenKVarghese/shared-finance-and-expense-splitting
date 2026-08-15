@@ -1,0 +1,37 @@
+{
+  "id": "/?source=pwa",
+  "name": "Shared Finance & Expense Splitting",
+  "short_name": "PairFinance",
+  "description": "Couples and shared household finance expense manager with real-time two-person reciprocal netting, split shares, account ledgers, and visual category analytics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "categories": ["finance", "productivity", "utilities"],
+  "dir": "ltr",
+  "lang": "en-US",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
